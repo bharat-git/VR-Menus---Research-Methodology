@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2974026374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 207d57e2274b1d897f89894ffc87ef01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25f62d55770eabc5844ba463aab70a86
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/TouchControllers/Models/left_touch_controller_model_skel.fbx
+- Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_button01_anim.fbx
+- Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/l_controller_trigger_pull_anim.fbx
+- Assets/Oculus/SampleFramework/Core/TouchControllers/Animations/r_controller_joy_NE_anim.fbx
+Dependencies:
+- E:/Research methodology/Unity/Research Methodology VR Experiment/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Research methodology/Unity/Research Methodology VR Experiment/OVRAssetBundles/OVRMasterBundle/asset_mat0

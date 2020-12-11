@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2972545432
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d36b9c4d5e1bb739edd82bac82b6e129
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Core/TouchControllers/LeftControllerAnimator.controller
+- Assets/Oculus/SampleFramework/Core/TouchControllers/RightControllerAnimator.controller
+Dependencies:
+- E:/Research methodology/Unity/Research Methodology VR Experiment/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Research methodology/Unity/Research Methodology VR Experiment/OVRAssetBundles/OVRMasterBundle/asset_fbx1
